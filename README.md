@@ -14,7 +14,7 @@
 
 - 🔭 MERN Stack Expert with 4+ years in React and Node.JS<br/>
 - 😍 Computer Vision Engineer with 6+ years with OpenCV and CNN.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 😉 Deep knowledge about deep learning, machine learning and reinforcement system.</br>
 
 </div>
 
