@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
     Hello <img src="./assets/Hi.gif" width="30px"> <br>
-    <b>Computer Vision && Web Developer</b>
+    <b>Computer Vision && MERN Stack Developer</b>
 </h1>
 
 
