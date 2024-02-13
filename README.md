@@ -64,11 +64,6 @@
       <img src="./assets/Web_GSAP2.gif"/>
     </td>
   </tr>  
-  <tr>
-    <td>    
-      <img src=""/>
-    </td>  
-  </tr>
 </table>
 
 
