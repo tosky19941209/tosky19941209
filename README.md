@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
     Hello <img src="./assets/Hi.gif" width="30px"> <br>
-    <b>Computer Vision && MERN Stack Developer</b>
+    <b>Web Developer with Node.js and Next.js</b>
 </h1>
 
 
@@ -19,9 +19,7 @@
 </div>
 
 # My Certification #
-<img src="./assets/badge_10.png" alt="android" height="100" title="Android reference">
-<img src="./assets/badge_3.png" alt="android" height="100" title="Android reference">
-<img src="./assets/badge_4.png" alt="android" height="100">
+
 </img> 
 
 
