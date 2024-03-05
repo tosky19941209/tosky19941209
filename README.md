@@ -9,14 +9,6 @@
 - 😉 Deep knowledge about deep learning, machine learning and reinforcement system.</br>
 
 </div>
-
-# My Certification #
-
-</img> 
-
-
-
-
 <table>
   <tr>
     <td align = "center">    
