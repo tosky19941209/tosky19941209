@@ -12,19 +12,20 @@
 <table>
   <tr>
     <td align = "center">    
-      <img src="./assets/pose_detection_img.gif"/>
+      <img src="./assets/123.gif"/>      
     </td>
   </tr>
   <tr>
     <td align = "center">    
-      <img src="./assets/Pose_Detection_video.gif"/>
+      <img src="./assets/Web_GSAP1.gif"/>
+        
     </td>
   </tr>
   <tr>
-    <td>    
-      <img src="./assets/car_detection_1.gif"/>
-      <img src="./assets/car_detection_2.gif"/>
-    </td>
+    <td>
+      <img src="./assets/Web_GSAP2.gif"/>
+        
+          </td>
   </tr>
     <tr>
     <td align = "center">    
@@ -33,17 +34,20 @@
   </tr>
   <tr>
     <td align = "center">    
-      <img src="./assets/123.gif"/>
+        <img src="./assets/pose_detection_img.gif"/>
     </td>
   </tr>
   <tr>
     <td>    
-      <img src="./assets/Web_GSAP1.gif"/>
+      <img src="./assets/Pose_Detection_video.gif"/>
+        
     </td>
   </tr>
   <tr>
     <td align="center">    
-      <img src="./assets/Web_GSAP2.gif"/>
+        <img src="./assets/car_detection_1.gif"/>
+      <img src="./assets/car_detection_2.gif"/>
+
     </td>
   </tr>  
 </table>
