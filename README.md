@@ -4,14 +4,6 @@
     <b>Web Developer with Node.js and Next.js</b>
 </h1>
 
-
-<div align="">
-
-<br>
-
-<div>
-<br/>
-
 - 🔭 MERN Stack Expert with 4+ years in React and Node.JS<br/>
 - 😍 Computer Vision Engineer with 6+ years with OpenCV and CNN.
 - 😉 Deep knowledge about deep learning, machine learning and reinforcement system.</br>
