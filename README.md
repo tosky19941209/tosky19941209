@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
     Hello <img src="./assets/Hi.gif" width="30px"> <br>
-    <b>Felix Eliass</b>
+    <b></b>
 </h1>
 
 - 🔭 MERN Stack Expert with 4+ years in React and Node.JS<br/>
