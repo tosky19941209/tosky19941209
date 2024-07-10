@@ -6,7 +6,6 @@
 
 - 🔭 MERN Stack Expert with 4+ years in React and Node.JS<br/>
 - 🎸Blockchain Developre with 6+ years for Solana and Ethereum
-- 😍 Computer Vision Engineer with 6+ years with OpenCV and CNN.
 </br>
 
 </div>
