@@ -21,16 +21,7 @@
       <img src="./assets/Web_GSAP1.gif"/>
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="./assets/Web_GSAP2.gif"/>
-      </td>
-  </tr>
-    <tr>
-    <td align = "center">    
-      <img src="./assets/Basketball_analysis.gif"/>
-    </td>
-  </tr>
+
 </table>
 
 
