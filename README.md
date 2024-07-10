@@ -31,24 +31,6 @@
       <img src="./assets/Basketball_analysis.gif"/>
     </td>
   </tr>
-  <tr>
-    <td align = "center">    
-        <img src="./assets/pose_detection_img.gif"/>
-    </td>
-  </tr>
-  <tr>
-    <td>    
-      <img src="./assets/Pose_Detection_video.gif"/>
-        
-    </td>
-  </tr>
-  <tr>
-    <td align="center">    
-        <img src="./assets/car_detection_1.gif"/>
-      <img src="./assets/car_detection_2.gif"/>
-
-    </td>
-  </tr>  
 </table>
 
 
