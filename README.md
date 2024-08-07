@@ -1,6 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
-    Hello <img src="./assets/Hi.gif" width="30px"> <br>
+    Full Stack Ethereum | Solana Developer
+    <img src="./assets/Hi.gif" width="30px"> <br>
     <b></b>
 </h1>
 
