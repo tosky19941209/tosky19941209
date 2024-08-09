@@ -13,13 +13,24 @@
 <table>
   <tr>
     <td align = "center">    
-      <img src="./assets/sport.gif"/>      
+      <img src="./assets/crypto_marketplace.png"/>      
+    </td>
+  </tr>
+  <tr>
+    <td align = "center">    
+      <img src="./assets/dex.png"/>      
     </td>
   </tr>
 
   <tr>
     <td align = "center">    
       <img src="./assets/Web_GSAP1.gif"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align = "center">    
+      <img src="./assets/pose-de.gif"/>
     </td>
   </tr>
 
