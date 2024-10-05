@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
-    Full Stack Ethereum | Solana Developer
+    Next.js | Vue.js | React | Nuxt.js | Ethereum | Solana Developer
     <img src="./assets/Hi.gif" width="30px"> <br>
     <b></b>
 </h1>
