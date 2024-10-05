@@ -5,7 +5,7 @@
     <b></b>
 </h1>
 
-- 🔭 MERN Stack Expert with 4+ years in React and Node.JS<br/>
+- 🔭 MERN Stack, Vue.js, Nuxt.js Expert with 4+ years in web development<br/>
 - 🎸Blockchain Developre with 6+ years for Solana and Ethereum
 </br>
 
