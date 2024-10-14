@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
-    Next.js | Vue.js | React | Nuxt.js | Ethereum | Solana Developer
+    Ethereum | Solana | Smart Contract | Dapp Developer
     <img src="./assets/Hi.gif" width="30px"> <br>
     <b></b>
 </h1>
