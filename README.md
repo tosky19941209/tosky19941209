@@ -5,8 +5,10 @@
     <b></b>
 </h1>
 
-- 🔭 MERN Stack, Vue.js, Nuxt.js Expert with 4+ years in web development<br/>
-- 🎸Blockchain Developre with 6+ years for Solana and Ethereum
+- 🔭 MERN Stack, Vue.js, Nuxt.js Expert with 7+ years in web development<br/>
+- 🎸Solana | Ethereum Smart Contract Development
+- 💥Solana | Ethereum TG Trading Bot Development
+- 💯TG-mini-app development
 </br>
 
 </div>
