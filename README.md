@@ -1,83 +1,43 @@
-<!--suppress HtmlDeprecatedAttribute -->
-<h1 align="center">
-    Bot | Dapp | Smart Contract Developer
-    <img src="./assets/Hi.gif" width="30px"> <br>
-    <b></b>
-</h1>
+<!--
+**itzmestar/itzmestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 MERN Stack, Vue.js, Nuxt.js Expert with 7+ years in web development<br/>
-- 🎸Solana | Ethereum Smart Contract Development
-- 💥Solana | Ethereum TG Trading Bot Development
-- 💯TG-mini-app development
-</br>
+Here are some ideas to get you started:
 
-</div>
-<table>
-  <tr>
-    <td align = "center">    
-      <img src="./assets/crypto_marketplace.png"/>      
-    </td>
-  </tr>
-  <tr>
-    <td align = "center">    
-      <img src="./assets/dex.png"/>      
-    </td>
-  </tr>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-  <tr>
-    <td align = "center">    
-      <img src="./assets/Web_GSAP1.gif"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align = "center">    
-      <img src="./assets/pose-de.gif"/>
-    </td>
-  </tr>
-
-</table>
+# 💫 About Me:
+## EVM Solana Front-end Trading Bot Developer
+- 🌱 I mastered in ReactJS, NextJS, VueJS and NuxtJS.
+- 👯 Be professional in Ethereum and Solana Smart Contract
+- 💬 TG Bot and mini app development
+- 📫 How to reach me: TG: goldhorse
 
 
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itzmetariq) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12907359) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itzmestarr)  -->
 
-# Main Skills #
+# 💻 Tech Stack:
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itzmestar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itzmestar&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmestar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itzmestar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=itzmestar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=itzmestar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://https://ios.cfw.guide/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTrY_SpLlVJtiekHG4bYUZmYqVeYmSlp7dzceYWCNVg&s" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXpGk3DulFPU7imClZcGlRvKhi__y9-WSGOxewTfr9amMzc-2&usqp=CAU" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRH606LHzB9b_mPIQIZVFcbeUkyz0gsiXWQ&usqp=CAU" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7Y1BEbmQARAre-Df7zrFlAccKt81SpKUZA&usqp=CAU" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdVbo9UP8X2Hqfpe8EVns96av0N8tlynPPw&usqp=CAU" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkuEuL56xJ8-BdCWGaG49inDBMU0ovKOLoDg&usqp=CAU" alt="python" height="100" title="Python documentation"></a>
-
-
-
-</div>
-
-
-
-
-<p align="center">
-
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
-</p>
-
-
-<p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/PrinceGoblinTech?tab=following"><img src="https://img.shields.io/github/stars/PrinceGoblinTech?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/PrinceGoblinTech?tab=followers"><img src="https://img.shields.io/github/followers/PrinceGoblinTech?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
-
-
-<p align="center">
-<a href="https://gist.github.com/hirakawa0215"><img src="https://profile-counter.glitch.me/{Evan-You}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
