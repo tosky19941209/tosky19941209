@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
-    Ethereum | Solana | Smart Contract | Dapp Developer
+    Bot | Dapp | Smart Contract Developer
     <img src="./assets/Hi.gif" width="30px"> <br>
     <b></b>
 </h1>
